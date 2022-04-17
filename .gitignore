@@ -27,7 +27,7 @@ buildNumber.properties
 .vscode/
 .editorconfig
 .gitattributes
-
+.DS_Store
 
    
 # Compiled class file
